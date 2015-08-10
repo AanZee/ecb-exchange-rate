@@ -16,7 +16,6 @@ Get the rates as a JSON object (content may vary)
 ```javascript
 var ecb = require('ecb-exchange-rate');
 var rates = ecb.getCurrentRate();
-});
 ```
 
 # Support
