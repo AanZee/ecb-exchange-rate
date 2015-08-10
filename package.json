@@ -1,0 +1,27 @@
+{
+  "name": "ecb-exchange-rate",
+  "version": "1.0.0",
+  "description": "This plugin downloads and converts the ECB (European Central Bank) XML daily reference to a JSON object.",
+  "main": "ecb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AanZee/ecb-exchange-rate.git"
+  },
+  "keywords": [
+    "ECB",
+    "Exchange",
+    "Rate"
+  ],
+  "author": "Gerhard Richard Edens",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/AanZee/ecb-exchange-rate/issues"
+  },
+  "homepage": "https://github.com/AanZee/ecb-exchange-rate",
+  "dependencies": {
+    "xml2js": "^0.4.10"
+  }
+}
