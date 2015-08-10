@@ -1,4 +1,4 @@
-# node-exact-online
+# node-ecb-exchange-rate
 Node.js wrapper for the ECB Echange Rate Daily [XML](http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml)
 
 ### Disclaimer
